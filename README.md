@@ -15,10 +15,10 @@ In this project, we have used MNist data to train and test the model.
 ## Setup
 This part includes the the basic setup used to run the application.
 
-Libraries used in the application are:
+Libraries used in the application are:\
 •	PyTorch\
 •	Matplotlib\
-•	NumPy\
+•	NumPy
 
 
 
